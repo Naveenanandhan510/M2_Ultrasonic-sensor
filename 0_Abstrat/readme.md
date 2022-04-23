@@ -1,0 +1,3 @@
+## ABSTRACT
+* This presentation deals with the verification of the accuracy of measurement distance ultrasonic sensor in the current environment. As a measuring sensor was chosen SFR08 type equipped by an I2C communication interface which allows addressing. This fact makes it simple to create the sensor array. Control and also visualization system was PC based. As communication card was used NI USB 8451. The goal of verification measurements was to determine the actual sensor accuracy especially when measuring longer distances. When evaluating the accuracy of the sensor was not included in temperature compensation of the measured data.
+
